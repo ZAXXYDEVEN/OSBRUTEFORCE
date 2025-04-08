@@ -12,6 +12,11 @@ Warning: This script is intended for educational and testing purposes only. Use 
 # OSBRUTEFORCE
 pip install requests phonenumbers beautifulsoup4 rich
 
+pkg install git
+
+pkg install python
+
+
 git clone https://github.com/ZAXXYDEVEN/OSBRUTEFORCE
 
 cd OSBRUTEFORCE
