@@ -13,3 +13,7 @@ Warning: This script is intended for educational and testing purposes only. Use 
 pip install requests phonenumbers beautifulsoup4 rich
 
 git clone https://github.com/ZAXXYDEVEN/OSBRUTEFORCE
+
+cd OSBRUTEFORCE
+
+python OSBRUTE.py
